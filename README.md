@@ -92,7 +92,7 @@ EJEMPLO PARA INSERTAR IMAGEN
 EJEMPLO DE ENLACES
 
 Ejemplo enlace
-[Readme](![image](https://github.com/user-attachments/assets/097254bf-3204-4d88-a4d4-87898b198215))
+[Readme](https://github.com/user-attachments/assets/097254bf-3204-4d88-a4d4-87898b198215)
 
 Ejemplo de enlace automatico
 <https://github.com/user-attachments/assets/97630181-fbf3-4547-95ea-e7d2275d38f2>
