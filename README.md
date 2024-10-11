@@ -79,16 +79,36 @@ EJEMPLO PARA INSERTAR IMAGEN
 
 
 
-<img src="!(https://github.com/user-attachments/assets/a868d42a-d595-4268-b7fe-3aca773f06c1)"
+<img src="https://github.com/user-attachments/assets/a868d42a-d595-4268-b7fe-3aca773f06c1" width="500" >
 
 ![image](https://github.com/user-attachments/assets/4ebf63df-b737-49eb-a971-3da484086f91)
 
 
+EJEMPLO DE ENLACES
+
+Ejemplo enlace
+[Readme](![image](https://github.com/user-attachments/assets/097254bf-3204-4d88-a4d4-87898b198215))
+
+Ejemplo de enlace automatico
+<https://github.com/user-attachments/assets/97630181-fbf3-4547-95ea-e7d2275d38f2>
 
 
+EJEMPLOS DE EMOJIS
+
+:+1:
+
+EJEMPLO DE NLOQUE DE DODIGO
 
 
+```bash
+npm install
+```
 
+```javascript
+function decirHola (){
+    console.log('Hola')
+  }
+```
 
 
 
